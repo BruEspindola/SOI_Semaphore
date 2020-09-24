@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="BankSemaphore"/>
+	<classpathentry kind="src" path="CrossingSemaphore"/>
+	<classpathentry kind="src" path="F1Semaphore"/>
+	<classpathentry kind="src" path="HallSemaphore"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
